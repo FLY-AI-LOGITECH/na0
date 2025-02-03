@@ -28,6 +28,5 @@ def solution(mats, park):
         if(m <= maxVal):
             answer = m
             break
-            
     
     return answer
